@@ -1,4 +1,4 @@
-Chronosleep
+ChronoSleep
 
 Def/scope: A web app where an user can log on and keep a sleep & sleep related habits diary
 
@@ -10,9 +10,9 @@ UX:
 
 3. The 'Log' button in the options panel takes the user to the screen where the new entry is to be filled
    3.1 several sections(table?, input boxes, dropdowns etc):
-        The time you went to bed and woke up.
-        How long and well you slept.
-        When you were awake during the night.
+    The time you went to bed and woke up.
+    How long and well you slept.
+    When you were awake during the night.
 	How much caffeine or alcohol you consumed and when.
 	What/when you ate and drank.
 	What emotion or stress you had.
@@ -27,16 +27,26 @@ UX:
 
 5. Another button to maybe a stats screen displaying info related to the user ratings (3.2)
 
+6. Account button has a buttons dropdown - takes user to account related options screens / outcomes (e.g. different settings / logout)
+
+.
+.
+.
+
 
 DevOps:
 
 1. Two machines
    1.1 DB (cloud/AWS?) - stores user credentials, log entries, analytics etc.
-   1.2 App server and/or web server? - holds and runs app
+   1.2 App server and (web server?)? - holds and runs app
 
 2. Comms between the 2 machines
 
 3. Public release/access - make available for Internet
+
+.
+.
+.
 
 
 Dev:
@@ -45,7 +55,9 @@ Dev:
 
 2. Backend - JS - app
 
-
+.
+.
+.
 
 
 
